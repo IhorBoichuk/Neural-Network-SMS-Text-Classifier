@@ -131,7 +131,7 @@ pred_text = "how are you doing today?"
 prediction = predict_message(pred_text)
 print(prediction)
 
-# Run this cell to test your function and model. Do not modify contents.
+# Run this  to test your function and model.
 def test_predictions():
   test_messages = ["how are you doing today",
                    "sale today! to stop texts call 98912460324",
